@@ -30,7 +30,7 @@ description: "Placeholder: a Win Laboratories product — its history, engineeri
 
 ## Historical Context & Provenance
 
-*Placeholder: dated evidence, interviews and provenance to follow.*
+*Placeholder: dated evidence, interviews and provenance to follow.* Leads found so far are logged in the [Research Notes](/research-notes/).
 
 When research notes are added, they follow the same rules as the Gale archive:
 

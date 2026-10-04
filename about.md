@@ -38,6 +38,7 @@ description: "About Win Laboratories, its founder Dr Sao Win, and how this archi
 <h2>Sources and Acknowledgements</h2>
 <ul>
   <li><em>Placeholder: sources will be listed here as material is added.</em></li>
+  <li>Leads and source checks are logged in the <a href="/research-notes/">Research Notes</a>.</li>
 </ul>
 
 <p><a href="https://win-laboratories.github.io">Return to Archive Home</a></p>
