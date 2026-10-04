@@ -1,0 +1,70 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="icon" type="image/png" href="/favicon.png">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    {% seo %}
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <div class="site-shell">
+      <header class="site-header">
+        <a class="masthead" href="{{ '/' | relative_url }}">
+          {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="">{% endif %}
+          <span class="meta">
+            <span class="site">{{ site.title }}</span><br>
+            <span class="desc">{{ site.description }}</span>
+          </span>
+        </a>
+        <nav class="primary-nav" aria-label="Main navigation">
+          <a href="{{ '/' | relative_url }}">Home</a>
+          <a href="{{ '/PRODUCT/' | relative_url }}">Products</a>
+          <a href="{{ '/about' | relative_url }}">About Win Laboratories</a>
+        </nav>
+      </header>
+
+      <div class="breadcrumb">
+        <a href="{{ '/' | relative_url }}">Home</a>
+        {% if page.collection %}
+          &nbsp;/&nbsp; <a href="{{ '/' | append: page.collection | append: '/' | relative_url }}">{{ page.collection | upcase }}</a>
+        {% endif %}
+        {% if page.title %}&nbsp;/&nbsp; {{ page.title }}{% endif %}
+      </div>
+
+      {% if page.archive_note or page.show_archive_banner %}
+      <aside class="archive-banner">
+        <strong>Archival note:</strong>
+        {% if page.archive_note %}{{ page.archive_note }}{% else %}
+          This page preserves original materials relating to Win Laboratories alongside new research and verified annotations.
+        {% endif %}
+      </aside>
+      {% endif %}
+
+      {% if page.collection == 'product' %}
+      <nav class="local-nav" aria-label="Product sections">
+        {% assign here = page.url %}
+        {% assign items = "Overview:/PRODUCT/" | split: ',' %}
+        {% for pair in items %}
+          {% assign bits = pair | split: ':' %}
+          {% assign label = bits[0] | strip %}
+          {% assign href = bits[1] | strip %}
+          <a class="{% if here == href %}is-active{% endif %}" href="{{ href | relative_url }}">{{ label }}</a>
+        {% endfor %}
+      </nav>
+      {% endif %}
+
+      <main class="content" id="main-content">
+        {{ content }}
+      </main>
+
+      <footer class="site-footer">
+        {{ site.title }} — Open archive of Win Laboratories. Unless otherwise stated, copyrights remain with their original creators.
+      </footer>
+    </div>
+  </body>
+</html>

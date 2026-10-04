@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://win-laboratories.github.io/sitemap.xml
+Sitemap: https://win-laboratories.github.io/sitemap.txt

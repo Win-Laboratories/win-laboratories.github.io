@@ -1,0 +1,16 @@
+title: Win Laboratories
+description: Open archive preserving the history, design and engineering of Win Laboratories and its founder, Dr Sao Win.
+url: https://win-laboratories.github.io
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+collections:
+  # Placeholder for Win Laboratories products: rename the key (and the
+  # PRODUCT/ folder) once the first product is chosen.
+  product:
+    output: true
+permalink: /:collection/:name/
+exclude:
+  - README.md
