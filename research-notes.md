@@ -40,6 +40,28 @@ Entries are in date order of the source.
 2. **What the listings show.** A directory listing shows that the company existed at that address, and usually little more. Note whether either listing gives product types, brand names or people.
 3. **Change of address.** The [May 1979 lead](#win-laboratories-and-the-sdt-10-may-1979-unverified) gives 7320 Hollister Ave., Goleta. If both addresses are confirmed, they help date the move. Look for directories from 1977 to 1980 to narrow it down.
 
+### Australian distributor and Sydney show, *Electronics Today International*, July 1976 (unverified)
+
+**Status:** lead only. Not yet checked against the original scan.
+
+**Source as supplied:** *Electronics Today International* (Australian edition), July 1976, scan hosted by World Radio History:
+<https://www.worldradiohistory.com/AUSTRALIA/ETI-Australia/70s/ETI-1976-07.pdf>
+
+**Details reported in the lead** (all still to be confirmed from the scan):
+
+| Detail | As reported | Checked? |
+| --- | --- | --- |
+| Distributor | Megasound Pty Ltd, an Australian distributor for Win Laboratories | No |
+| Event | 1976 Consumer Electronics Show, Sydney | No |
+| Products to be shown | The new Win pickup cartridge and the Win tonearm | No |
+
+**Problems to resolve before this can be used:**
+
+1. **Page and item type.** Record the printed page number, and whether this is a show preview, a news item or an exhibitor list. A preview says what a distributor planned to show, not what was shown.
+2. **Product names.** As reported, neither product is named. Check whether the scan names the cartridge (for example as the SDT-10) and the tonearm. Don't assume the cartridge is the SDT-10.
+3. **Distributor.** Check the spelling of Megasound Pty Ltd, any address given, and whether it is described as the sole distributor or one of several.
+4. **The show.** Confirm the show's name, dates and venue from the scan or the show's own listings.
+
 ### Win Laboratories and the SDT-10, May 1979 (unverified)
 
 **Status:** lead only. Not yet checked against the original scan.
@@ -130,6 +152,9 @@ Entries are in date order of the source.
 - What does "Type II" refer to, and was there an earlier SDT-10?
 - When was Win Laboratories founded, and is there an entry earlier than 1975?
 - When did the company move from Norman Firestone Rd. to Hollister Ave.?
+- What was the Win tonearm, and was it sold in the United States as well as Australia?
+- Was the "new Win pickup cartridge" of 1976 an early SDT-10, and does that bear on what "Type II" means by 1979?
+- Did Win Laboratories have distributors in other countries?
 - Are the SDC-10 (1979) and the SEC (1984) separate turntables, or stages of one design?
 - Which Win Labs preamp does the 1984 article refer to?
 - When did the SDC-10 and the SEC go on sale, and at what prices?
