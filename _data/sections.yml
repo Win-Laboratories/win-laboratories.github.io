@@ -1,0 +1,162 @@
+# Site structure: drives the main navigation, breadcrumbs, section menus,
+# section index pages and home-page cards. Add a page here and create its
+# index.md to put it on the site.
+- id: about
+  title: "About Sao Win"
+  url: /about/
+  blurb: "Dr Sao Win: biography, education, career and the people he worked with."
+  children:
+    - title: "Biography"
+      url: /about/biography/
+      blurb: "His life, from sourced material."
+    - title: "Education"
+      url: /about/education/
+      blurb: "Where and what he studied."
+    - title: "Career"
+      url: /about/career/
+      blurb: "His working life before, during and after Win Laboratories."
+    - title: "People & collaborators"
+      url: /about/people-collaborators/
+      blurb: "Colleagues, staff and collaborators."
+- id: win-laboratories
+  title: "Win Laboratories"
+  url: /win-laboratories/
+  blurb: "The company: its history, addresses, logos, advertising and distributors."
+  children:
+    - title: "Company history"
+      url: /win-laboratories/company-history/
+      blurb: "Founding, development and later years."
+    - title: "Addresses"
+      url: /win-laboratories/addresses/
+      blurb: "Company addresses, with dates and sources."
+    - title: "Logos"
+      url: /win-laboratories/logos/
+      blurb: "Logos and branding as used over time."
+    - title: "Advertisements"
+      url: /win-laboratories/advertisements/
+      blurb: "Win Laboratories advertising."
+    - title: "Distributors"
+      url: /win-laboratories/distributors/
+      blurb: "Distributors and dealers at home and abroad."
+- id: turntables
+  title: "Turntables"
+  url: /turntables/
+  blurb: "Win turntables, design by design."
+  children:
+    - title: "Lab 10"
+      url: /turntables/lab-10/
+      blurb: "The Lab 10 turntable."
+    - title: "SDC-10"
+      url: /turntables/sdc-10/
+      blurb: "The SDC-10 turntable."
+    - title: "SEC-10"
+      url: /turntables/sec-10/
+      blurb: "The SEC / SEC-10 turntable and drive."
+    - title: "Prototypes"
+      url: /turntables/prototypes/
+      blurb: "Prototype and later turntable designs."
+    - title: "Technical documents"
+      url: /turntables/technical-documents/
+      blurb: "Manuals, drawings and service information for Win turntables."
+- id: tonearms
+  title: "Tonearms"
+  url: /tonearms/
+  blurb: "Win tonearms."
+  children:
+    - title: "SDA-10"
+      url: /tonearms/sda-10/
+      blurb: "The SDA-10 tonearm."
+    - title: "Pantograph"
+      url: /tonearms/pantograph/
+      blurb: "The Win pantograph tonearm."
+    - title: "Other designs"
+      url: /tonearms/other-designs/
+      blurb: "Other Win tonearms."
+- id: cartridges
+  title: "Cartridges"
+  url: /cartridges/
+  blurb: "Win cartridges and pickup technologies."
+  children:
+    - title: "SDT-10"
+      url: /cartridges/sdt-10/
+      blurb: "The SDT-10 semiconductor disc transducer."
+    - title: "Strain Gauge"
+      url: /cartridges/strain-gauge/
+      blurb: "Win's semiconductor strain-gauge pickup technology."
+    - title: "FET"
+      url: /cartridges/fet/
+      blurb: "FET-based Win cartridge designs."
+    - title: "SMC-10"
+      url: /cartridges/smc-10/
+      blurb: "The SMC-10."
+    - title: "Megasonics"
+      url: /cartridges/megasonics/
+      blurb: "Megasonics."
+- id: electronics
+  title: "Electronics"
+  url: /electronics/
+  blurb: "Power supplies, preamplifiers and cartridge electronics."
+  children:
+    - title: "Power supplies"
+      url: /electronics/power-supplies/
+      blurb: "Power supplies for Win products."
+    - title: "Preamplifiers"
+      url: /electronics/preamplifiers/
+      blurb: "Win preamplifiers."
+    - title: "Cartridge electronics"
+      url: /electronics/cartridge-electronics/
+      blurb: "Electronics for Win cartridges."
+- id: loudspeakers
+  title: "Loudspeakers"
+  url: /loudspeakers/
+  blurb: "Win loudspeakers."
+  children:
+    - title: "Win Research SM-10"
+      url: /loudspeakers/win-research-sm-10/
+      blurb: "The Win Research SM-10."
+- id: patents
+  title: "Patents"
+  url: /patents/
+  blurb: "Patents naming Dr Sao Win or Win Laboratories."
+- id: magazine-archive
+  title: "Magazine Archive"
+  url: /magazine-archive/
+  blurb: "Reviews, show reports and features from contemporary magazines."
+- id: advertisements-brochures
+  title: "Advertisements & Brochures"
+  url: /advertisements-brochures/
+  blurb: "Advertisements, brochures, price lists and application notes."
+- id: photographs
+  title: "Photographs"
+  url: /photographs/
+  blurb: "Photographs of products, Dr Sao Win, trade shows and badges."
+  children:
+    - title: "Products"
+      url: /photographs/products/
+      blurb: "Photographs of Win products."
+    - title: "Sao Win"
+      url: /photographs/sao-win/
+      blurb: "Photographs of Dr Sao Win."
+    - title: "Trade shows"
+      url: /photographs/trade-shows/
+      blurb: "Win Laboratories at trade shows."
+    - title: "Logos / badges"
+      url: /photographs/logos-badges/
+      blurb: "Logos, badges and nameplates."
+- id: people
+  title: "People & Oral History"
+  url: /people/
+  blurb: "Recollections from former employees, dealers, owners and collaborators."
+  children:
+    - title: "Former employees"
+      url: /people/former-employees/
+      blurb: "Recollections from people who worked at Win Laboratories."
+    - title: "Dealers"
+      url: /people/dealers/
+      blurb: "Recollections from dealers and distributors."
+    - title: "Owners"
+      url: /people/owners/
+      blurb: "Owners' accounts and surviving equipment."
+    - title: "Engineers / collaborators"
+      url: /people/engineers-collaborators/
+      blurb: "Engineers and others who worked with Dr Sao Win."

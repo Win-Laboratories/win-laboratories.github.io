@@ -146,21 +146,17 @@ title: Win Laboratories
       </div>
 
       <div class="cards">
-        <a class="card card-link d-block no-underline" href="/PRODUCT/">
-          <h3>Products</h3>
-          <p>Placeholder: product history, documentation and restoration notes to follow.</p>
+        {%- for sec in site.data.sections %}
+        <a class="card card-link d-block no-underline" href="{{ sec.url }}">
+          <h3>{{ sec.title }}</h3>
+          <p>{{ sec.blurb }}</p>
           <div class="mt-2 f6 color-fg-accent">Open <span class="arrow">→</span></div>
         </a>
+        {%- endfor %}
 
-        <a class="card card-link d-block no-underline" href="/turntables/">
-          <h3>Turntable Development</h3>
-          <p>Placeholder: Win turntables stage by stage, from sourced material.</p>
-          <div class="mt-2 f6 color-fg-accent">Open <span class="arrow">→</span></div>
-        </a>
-
-        <a class="card card-link d-block no-underline" href="/about">
-          <h3>About Win Laboratories</h3>
-          <p>Placeholder: the company, its founder and how this archive preserves the record.</p>
+        <a class="card card-link d-block no-underline" href="/research-notes/">
+          <h3>Research Notes</h3>
+          <p>The working source log: leads, checks and open questions.</p>
           <div class="mt-2 f6 color-fg-accent">Read <span class="arrow">→</span></div>
         </a>
       </div>

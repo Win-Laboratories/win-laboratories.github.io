@@ -23,16 +23,18 @@
         </a>
         <nav class="primary-nav" aria-label="Main navigation">
           <a href="{{ '/' | relative_url }}">Home</a>
-          <a href="{{ '/PRODUCT/' | relative_url }}">Products</a>
-          <a href="{{ '/turntables/' | relative_url }}">Turntables</a>
-          <a href="{{ '/about' | relative_url }}">About Win Laboratories</a>
+          {%- for s in site.data.sections %}
+          <a href="{{ s.url | relative_url }}">{{ s.title }}</a>
+          {%- endfor %}
+          <a href="{{ '/research-notes/' | relative_url }}">Research Notes</a>
         </nav>
       </header>
 
       <div class="breadcrumb">
         <a href="{{ '/' | relative_url }}">Home</a>
-        {% if page.collection %}
-          &nbsp;/&nbsp; <a href="{{ '/' | append: page.collection | append: '/' | relative_url }}">{{ page.collection | upcase }}</a>
+        {% if page.section %}{% assign sec = site.data.sections | where: "id", page.section | first %}{% endif %}
+        {% if sec and page.url != sec.url %}
+          &nbsp;/&nbsp; <a href="{{ sec.url | relative_url }}">{{ sec.title }}</a>
         {% endif %}
         {% if page.title %}&nbsp;/&nbsp; {{ page.title }}{% endif %}
       </div>
@@ -46,15 +48,10 @@
       </aside>
       {% endif %}
 
-      {% if page.collection == 'product' %}
-      <nav class="local-nav" aria-label="Product sections">
-        {% assign here = page.url %}
-        {% assign items = "Overview:/PRODUCT/" | split: ',' %}
-        {% for pair in items %}
-          {% assign bits = pair | split: ':' %}
-          {% assign label = bits[0] | strip %}
-          {% assign href = bits[1] | strip %}
-          <a class="{% if here == href %}is-active{% endif %}" href="{{ href | relative_url }}">{{ label }}</a>
+      {% if sec.children and page.url != sec.url %}
+      <nav class="local-nav" aria-label="{{ sec.title }} sections">
+        {% for c in sec.children %}
+          <a class="{% if page.url == c.url %}is-active{% endif %}" href="{{ c.url | relative_url }}">{{ c.title }}</a>
         {% endfor %}
       </nav>
       {% endif %}

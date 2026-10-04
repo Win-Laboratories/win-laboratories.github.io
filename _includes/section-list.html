@@ -1,0 +1,9 @@
+{%- assign sec = site.data.sections | where: "id", page.section | first -%}
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px;margin:1.2rem 0;">
+  {%- for c in sec.children %}
+  <a href="{{ c.url | relative_url }}" style="text-decoration:none;background:#fff;border:1px solid #ddd;border-radius:10px;padding:1rem;text-align:center;display:block;box-shadow:0 4px 14px rgba(0,0,0,.05);">
+    <strong>{{ c.title }}</strong><br>
+    <small>{{ c.blurb }}</small>
+  </a>
+  {%- endfor %}
+</div>

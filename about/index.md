@@ -1,12 +1,15 @@
 ---
 layout: bare
-title: About Win Laboratories
-description: "About Win Laboratories, its founder Dr Sao Win, and how this archive preserves the record."
+title: About Sao Win
+section: about
+description: "About Dr Sao Win, founder of Win Laboratories, and how this archive preserves the record."
 ---
 
 <!-- Page Header -->
-<h1>About Win Laboratories</h1>
-<p><em>Placeholder: a short, sourced introduction to Win Laboratories will go here.</em></p>
+<h1>About Sao Win</h1>
+<p><em>Placeholder: a short, sourced introduction to Dr Sao Win will go here.</em></p>
+
+{% include section-list.html %}
 
 <!-- Key Figures -->
 <h2 id="key-figures">Key Figures</h2>

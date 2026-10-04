@@ -237,6 +237,8 @@ Dated entries are in date order of the source. Undated documents follow them.
 - Was "Win Research" another name for Win Laboratories, a successor, or a separate company?
 - Did the pantograph tonearm ever go into production?
 - Is there any contemporary source for a "Lab 10" turntable?
+- What are the SDA-10 tonearm, the SMC-10, the FET cartridges, "Megasonics" and the Win Research SM-10 loudspeaker? No source for any of them has been logged yet.
+- Is "Megasonics" connected with Megasound Pty Ltd, the Australian distributor in the 1976 ETI lead?
 - Are the SDC-10 (1979) and the SEC (1984) separate turntables, or stages of one design?
 - Which Win Labs preamp does the 1984 article refer to?
 - When did the SDC-10 and the SEC go on sale, and at what prices?
