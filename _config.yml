@@ -1,6 +1,7 @@
 title: Win Laboratories
 description: Open archive preserving the history, design and engineering of Win Laboratories and its founder, Dr Sao Win.
 url: https://win-laboratories.github.io
+logo: /assets/logos/win-laboratories-mark.png
 theme: minima
 markdown: kramdown
 plugins:
