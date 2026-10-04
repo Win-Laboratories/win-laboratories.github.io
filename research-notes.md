@@ -21,6 +21,45 @@ The leads below were supplied as summaries, and every link that came with them c
 
 Dated entries are in date order of the source. Undated documents follow them.
 
+### Lab 10 turntable, *High Fidelity*, July 1974 (text checked)
+
+**Status:** the wording below has been checked against a clipping of the printed item. The citation (magazine, issue and page) has **not** been checked yet. It comes from the research summary, and the clipping doesn't show it.
+
+**Source as supplied:** *High Fidelity*, July 1974 (Vol. 24, No. 7), "Equipment in the News", p. 42. The summary cited a copy on device.report.
+
+**Preserved copy:** [clipping of the item, with its photograph](/assets/docs/1974-07-High-Fidelity-p42-Win-Labs-Lab-10-clipping.png), as supplied. Replace it with, or add, the full page once it's found.
+
+**Transcription** (from the clipping; "Laborator-ies" is hyphenated across a line break in print):
+
+> **Win Labs offers first turntable**
+>
+> The Lab 10 manual turntable is the first audio unit of Win Laboratories of Goleta, Calif. This precision-made single-speed (33 rpm) unit uses dual synchronous drive motors, which are reportedly stable for line voltage between 70 and 125 volts. Soft silicone rubber wheels transmit drive torque from the motor shafts to the platter without idlers and belts. Rumble is rated at −70 dB. The low-mass tone arm is of hand-polished wood. The damping in the pivot system is said to act as automatic antiskating compensation. The top plate has a white AC pilot light and a red warning light that comes on when the stylus is resting on a stationary disc. The Lab 10 costs $150.
+>
+> CIRCLE 146 ON READER-SERVICE CARD
+
+**What it shows, and what it doesn't:**
+
+| Detail | As printed | Checked? |
+| --- | --- | --- |
+| Headline | "Win Labs offers first turntable" | Yes (clipping) |
+| Company and place | Win Laboratories of Goleta, Calif. | Yes (clipping) |
+| Claim of firstness | "the first audio unit of Win Laboratories" | Yes (clipping). This is what the item says. It isn't independently confirmed. |
+| Type and speed | Manual turntable, single speed (33 rpm) | Yes (clipping) |
+| Drive | Dual synchronous motors; soft silicone rubber wheels to the platter, "without idlers and belts" | Yes (clipping) |
+| Line voltage | "reportedly stable for line voltage between 70 and 125 volts" | Yes (clipping) |
+| Rumble | −70 dB (rated) | Yes (clipping) |
+| Tonearm | Low-mass, hand-polished wood; pivot damping "said to act as automatic antiskating compensation" | Yes (clipping) |
+| Indicators | White AC pilot light; red light when the stylus rests on a stationary disc | Yes (clipping) |
+| Price | $150 | Yes (clipping) |
+| Magazine, issue, volume and page | *High Fidelity*, July 1974, Vol. 24 No. 7, p. 42 | No |
+
+**Problems to resolve:**
+
+1. **Citation.** Confirm the magazine, issue, volume and page from the full page, with its running head and folio. Record where the scan is held.
+2. **Kind of evidence.** This is a short new-products item with a reader-service number. Items like this were usually based on the manufacturer's own press release, and the wording ("reportedly", "is said to", "is rated at") shows the magazine relaying claims, not testing them. Treat the specifications and "first audio unit" as Win Laboratories' claims as reported in July 1974.
+3. **Photograph.** The item carries a photograph of the Lab 10. Record its credit, if the full page gives one.
+
+
 ### Manufacturer directories, 1975 and 1976 (unverified)
 
 **Status:** lead only. Not yet checked against the original scans.
@@ -228,7 +267,7 @@ Dated entries are in date order of the source. Undated documents follow them.
 - Does the item name Dr Sao Win?
 - How do the Professional and Laboratory Standard versions differ, and which price belongs to which?
 - What does "Type II" refer to, and was there an earlier SDT-10?
-- When was Win Laboratories founded, and is there an entry earlier than 1975?
+- When was Win Laboratories founded? The July 1974 item calls the Lab 10 its first audio unit. Did the company make anything else before it?
 - When did the company move from Norman Firestone Rd. to Hollister Ave.?
 - What was the Win tonearm, and was it sold in the United States as well as Australia?
 - Was the "new Win pickup cartridge" of 1976 an early SDT-10, and does that bear on what "Type II" means by 1979?
@@ -236,7 +275,8 @@ Dated entries are in date order of the source. Undated documents follow them.
 - Were there other Win Laboratories application notes after SZW 1?
 - Was "Win Research" another name for Win Laboratories, a successor, or a separate company?
 - Did the pantograph tonearm ever go into production?
-- Is there any contemporary source for a "Lab 10" turntable?
+- How long was the Lab 10 sold, how many were made, and do any survive?
+- Was the Lab 10's wooden tonearm sold separately, and is it related to the later Win tonearms?
 - What are the SDA-10 tonearm, the SMC-10, the FET cartridges, "Megasonics" and the Win Research SM-10 loudspeaker? No source for any of them has been logged yet.
 - Is "Megasonics" connected with Megasound Pty Ltd, the Australian distributor in the 1976 ETI lead?
 - Are the SDC-10 (1979) and the SEC (1984) separate turntables, or stages of one design?

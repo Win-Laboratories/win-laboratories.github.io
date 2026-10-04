@@ -9,8 +9,9 @@ description: "Placeholder: Founding, development and later years."
 
 *Placeholder: founding, development and later years.*
 
-Leads to check (all unverified):
+Sources and leads (only the first has been checked):
 
+- <a href="/research-notes/#lab-10-turntable-high-fidelity-july-1974-text-checked">Lab 10 turntable, <em>High Fidelity</em>, July 1974</a> (text checked)
 - <a href="/research-notes/#manufacturer-directories-1975-and-1976-unverified">Manufacturer directories, 1975 and 1976</a>
 - <a href="/research-notes/#win-laboratories-and-the-sdt-10-may-1979-unverified">Win Laboratories and the SDT-10, May 1979</a>
 

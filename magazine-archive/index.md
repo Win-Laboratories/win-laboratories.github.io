@@ -11,8 +11,9 @@ description: "Placeholder: Reviews, show reports and features from contemporary 
 
 Scans go in <code>/assets/docs/</code>, each with its publication, date, page and scan source.
 
-Leads to check (all unverified):
+Sources and leads (only the first has been checked):
 
+- <a href="/research-notes/#lab-10-turntable-high-fidelity-july-1974-text-checked">Lab 10 turntable, <em>High Fidelity</em>, July 1974</a> (text checked)
 - <a href="/research-notes/#australian-distributor-and-sydney-show-electronics-today-international-july-1976-unverified">Australian distributor and Sydney show, ETI, July 1976</a>
 - <a href="/research-notes/#sdt-10-evaluation-boston-audio-society-1976-unverified">SDT-10 evaluation, Boston Audio Society, 1976</a>
 - <a href="/research-notes/#win-laboratories-and-the-sdt-10-may-1979-unverified">Win Laboratories and the SDT-10, May 1979</a>

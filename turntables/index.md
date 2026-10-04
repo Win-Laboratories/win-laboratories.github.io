@@ -9,7 +9,7 @@ description: "Placeholder: Win turntables, design by design."
 
 *Placeholder: Win turntables, design by design.*
 
-The order of the designs is a working hypothesis (Lab 10 → SDC-10 → SEC-10 → later and prototype designs), not an established sequence. Each design is treated separately until the sources show how they relate.
+The order of the designs is a working hypothesis (Lab 10 → SDC-10 → SEC-10 → later and prototype designs), not an established sequence. Each design is treated separately until the sources show how they relate. The first stage now has a contemporary source: a July 1974 item calls the [Lab 10](/turntables/lab-10/) "the first audio unit of Win Laboratories".
 
 {% include section-list.html %}
 
