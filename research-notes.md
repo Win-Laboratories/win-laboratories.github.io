@@ -19,7 +19,7 @@ This page records sources and leads about Win Laboratories, Dr Sao Win and their
 The leads below were supplied as summaries, and every link that came with them carried a `utm_source=chatgpt.com` tag, so their details appear to come from an AI-generated summary. Names, prices, figures and quotations in such summaries can be wrong. Every detail must be checked against the scan itself. The magazine titles in the May 1979 and SDC-10 leads also look swapped, which suggests the summary mixed them up.
 
 
-Entries are in date order of the source.
+Dated entries are in date order of the source. Undated documents follow them.
 
 ### Manufacturer directories, 1975 and 1976 (unverified)
 
@@ -61,6 +61,32 @@ Entries are in date order of the source.
 2. **Product names.** As reported, neither product is named. Check whether the scan names the cartridge (for example as the SDT-10) and the tonearm. Don't assume the cartridge is the SDT-10.
 3. **Distributor.** Check the spelling of Megasound Pty Ltd, any address given, and whether it is described as the sole distributor or one of several.
 4. **The show.** Confirm the show's name, dates and venue from the scan or the show's own listings.
+
+### SDT-10 evaluation, Boston Audio Society, 1976 (unverified)
+
+**Status:** lead only. Not yet checked against the original.
+
+**Source as supplied:** a cartridge evaluation in *The BAS Speaker*, the Boston Audio Society's newsletter, hosted on the society's own site. The file name (`BASS-04-1112-760809b.pdf`) suggests volume 4, numbers 11–12, around August–September 1976. Confirm this from the issue itself.
+<https://www.bostonaudiosociety.org/pdf/bass/BASS-04-1112-760809b.pdf>
+
+**Details reported in the lead** (all still to be confirmed from the scan):
+
+| Detail | As reported | Checked? |
+| --- | --- | --- |
+| Product | Win SDT-10 strain-gauge cartridge | No |
+| Mass | Under 2.5 g | No |
+| Sensing | Semiconductor strain gauges | No |
+| Output | 0.8 V RMS, RIAA equalised | No |
+| Price | $225 including power source | No |
+| Contact with Dr Win | The society contacted Dr Sao Win directly, and he supplied a latest-version cartridge dated April 1976 for testing | No |
+
+**Problems to resolve before this can be used:**
+
+1. **Issue, date and author.** Record the issue number and date as printed, the article's title and author, and the page.
+2. **What kind of evidence.** This is an independent club test, so its measurements are the society's own. The description of the product, and any history Dr Win gave them, are his claims as reported by the society.
+3. **"Dated April 1976".** Check whether this is a date marked on the cartridge, on its paperwork, or given by Dr Win. Does the article call it a revised or Type II version?
+4. **How he is named.** Record exactly how the article names Dr Sao Win, and his title and role.
+5. **Price.** $225 in 1976 compares with the $360 and $500 reported for May 1979. Once both are confirmed, check whether they are the same product and package.
 
 ### Win Laboratories and the SDT-10, May 1979 (unverified)
 
@@ -143,6 +169,58 @@ Entries are in date order of the source.
 3. **Exact figures and quotations.** Check the quartz frequency and the 600 measurements per revolution exactly as printed. Check that both quoted phrases appear word for word.
 4. **Relationship to the SDC-10.** Does the article present the SEC as a successor to the 1979 SDC-10, or as a separate design? Note that the SDC-10 is reported with a 3/4-inch plinth and the SEC with a half-inch one.
 
+## Undated documents
+
+### SDT-10 application note SZW 1 (unverified)
+
+**Status:** lead only. The document has not yet been seen or checked.
+
+**Source as supplied:** a PDF hosted by device.report, a third-party site that collects manuals:
+<https://device.report/m/9ec2c81ab3e3e181102079daa5373f867638e81dbbb22dd939cf2b2442de5904.pdf>
+
+**Details reported in the lead** (all still to be confirmed from the document):
+
+| Detail | As reported | Checked? |
+| --- | --- | --- |
+| Title | SDT-10 Type 11, Semiconductor Disc Transducer | No |
+| Note number | SZW 1 | No |
+| Branding | Win Laboratories | No |
+| Contents | Recommended stylus pressure, recommended tonearms, recommended turntables, performance characteristics | No |
+| Recommended turntables | Linn Sondek, J.A. Mitchell, Denon, Technics SP-10, Kenwood KD-500, Dual 701/721 | No |
+
+**Problems to resolve before this can be used:**
+
+1. **Is it an original?** Check whether the PDF is a scan of a printed Win Laboratories document, a retyped copy, or a dealer's or owner's version. Record the file's size, page count and any scanner or uploader details. device.report is a host, not a source, so look for the original's provenance.
+2. **"Type 11" or "Type II"?** The other leads call it the SDT-10 Type II. "11" may be a misreading of "II", in the document's text layer or in the summary. Read it from the page image.
+3. **Note number.** Check "SZW 1" against the page image for the same reason.
+4. **Date.** Look for a date, a revision number or an address. The address would help place the note between Norman Firestone Rd. (1975–76 directories) and Hollister Ave. (May 1979). The turntables it recommends may also help date it. Check each one's release date from its own sources.
+5. **Exact values.** Transcribe the recommended stylus pressure, the tonearm list and the performance figures exactly as printed.
+
+**Preservation:** download the PDF and keep it unaltered in [`/assets/docs/`](https://github.com/Win-Laboratories/win-laboratories.github.io/tree/main/assets/docs), named in the form `Win-Laboratories-SDT-10-Application-Note-SZW-1.pdf`. Record where it was downloaded from and when.
+
+### *The Audio Critic*: Win Research SEC-10 and pantograph tonearm (unverified)
+
+**Status:** lead only. Not yet checked against the original.
+
+**Source as supplied:** an issue of *The Audio Critic*. No issue, date, page or working link was supplied.
+
+**Details reported in the lead** (all still to be confirmed from the original):
+
+| Detail | As reported | Checked? |
+| --- | --- | --- |
+| Name | Win Research SEC-10 | No |
+| Description | A later, more sophisticated drive system, available in very limited quantities | No |
+| Price | $4,000 | No |
+| Tonearm | Win pantograph tonearm, apparently seen in prototype form at trade shows | No |
+
+**Problems to resolve before this can be used:**
+
+1. **Which issue?** Identify the issue, date and page, and find a scan.
+2. **"Win Research".** Check the exact company name as printed. It may be a misreading, a later trading name, or a separate company. Don't treat it as the same company as Win Laboratories until that is established.
+3. **SEC-10: turntable or drive?** This lead calls the SEC-10 a "drive system". The [May 1984 *Audio* lead](#win-sec-turntable-audio-may-1984-unverified) calls the turntable the SEC and its motor the SEC-10. Settle the naming from both originals.
+4. **Is the pantograph tonearm the "Win tonearm" of 1976?** Compare it with the tonearm in the [1976 ETI Australia lead](#australian-distributor-and-sydney-show-electronics-today-international-july-1976-unverified). Don't assume they are the same arm.
+5. **What "later" is relative to.** Check what the review compares the SEC-10 with, for example the SDC-10.
+
 ## Open questions
 
 - Is the May 1979 item an advertisement, a listing or editorial coverage?
@@ -155,6 +233,10 @@ Entries are in date order of the source.
 - What was the Win tonearm, and was it sold in the United States as well as Australia?
 - Was the "new Win pickup cartridge" of 1976 an early SDT-10, and does that bear on what "Type II" means by 1979?
 - Did Win Laboratories have distributors in other countries?
+- Were there other Win Laboratories application notes after SZW 1?
+- Was "Win Research" another name for Win Laboratories, a successor, or a separate company?
+- Did the pantograph tonearm ever go into production?
+- Is there any contemporary source for a "Lab 10" turntable?
 - Are the SDC-10 (1979) and the SEC (1984) separate turntables, or stages of one design?
 - Which Win Labs preamp does the 1984 article refer to?
 - When did the SDC-10 and the SEC go on sale, and at what prices?
