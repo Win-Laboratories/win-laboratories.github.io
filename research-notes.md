@@ -16,7 +16,7 @@ This page records sources and leads about Win Laboratories, Dr Sao Win and their
 
 ## Source log
 
-The leads below were supplied as summaries, and every link that came with them carried a `utm_source=chatgpt.com` tag, so their details appear to come from an AI-generated summary. Names, prices, figures and quotations in such summaries can be wrong. Every detail must be checked against the scan itself. The magazine titles in the May 1979 and SDC-10 leads also look swapped, which suggests the summary mixed them up.
+The leads below were supplied as summaries, and every link that came with them carried a `utm_source=chatgpt.com` tag, so their details appear to come from an AI-generated summary. Names, prices, figures and quotations in such summaries can be wrong. Every detail must be checked against the scan itself. Two supplied clippings so far have been checked directly, and one turned out to be from a different item than the summary described. The magazine titles in the May 1979 and SDC-10 leads also look swapped, which suggests the summary mixed them up.
 
 
 Dated entries are in date order of the source. Undated documents follow them.
@@ -60,9 +60,80 @@ Dated entries are in date order of the source. Undated documents follow them.
 3. **Photograph.** The item carries a photograph of the Lab 10. Record its credit, if the full page gives one.
 
 
-### Manufacturer directories, 1975 and 1976 (unverified)
+### SDT-10 and the Euphonics acquisition, *High Fidelity*, February 1975 (unverified)
 
-**Status:** lead only. Not yet checked against the original scans.
+**Status:** lead only. The article has not been seen. (The clipping supplied with this lead is from *Audio*, October 1975, not this article. See the next entry.)
+
+**Source as supplied:** *High Fidelity*, February 1975, p. 34.
+
+**Passages reported in the lead** (to be checked word for word against the page):
+
+> "Win Laboratories, which has been represented in high fidelity so far by a single product—the Lab 10 turntable—has gone into cartridge manufacture with a design that bears a good deal of resemblance to the Euphonics pickup of the Sixties."
+
+> "The Win Semiconductor Disc Transducer is based directly on the Euphonics (whose design and patents Win has acquired) but has been re-engineered in a number of significant respects."
+
+**Details reported in the lead:**
+
+| Detail | As reported | Checked? |
+| --- | --- | --- |
+| Product | Win Semiconductor Disc Transducer (SDT-10) | No |
+| Earlier products | "represented in high fidelity so far by a single product—the Lab 10 turntable" | No |
+| Origin of the design | "based directly on the Euphonics", "re-engineered in a number of significant respects" | No |
+| Euphonics design and patents | "whose design and patents Win has acquired" | No |
+
+**Problems to resolve before this can be used:**
+
+1. **See the page.** These are the most important claims logged so far about where the SDT-10 came from, so they need checking word for word, with the page's running head and folio. If confirmed, preserve the page in `/assets/docs/`.
+2. **"Represented in high fidelity so far".** This may mean represented *in this magazine* or *in the hi-fi field*. Either way it describes what the writer knew of. It doesn't prove the Lab 10 was Win's only product.
+3. **The Euphonics acquisition.** If confirmed, this is the magazine reporting what it was told, presumably by Win. Look for independent evidence: patent assignment records, Euphonics' own history, and trade-press reports of the sale. Record which patents were involved and when they were acquired.
+4. **Whose invention.** Until the Euphonics history is documented, don't describe the SDT-10's principle as Dr Sao Win's original invention. Record what the sources say Win changed.
+
+### *Audio* annual directory, October 1975 (address checked)
+
+**Status:** the address listing has been checked against a clipping. The cartridge-survey entry reported for the same issue has **not** been seen.
+
+**Source:** *Audio*, October 1975, manufacturers' address list. The issue and month come from the footer "AUDIO • OCTOBER, 1975", visible in the clipping. The page number is not visible.
+Scan reported at World Radio History: <https://www.worldradiohistory.com/Archive-All-Audio/Archive-Audio/70s/Audio-1975-10.pdf>
+
+**Preserved copy:** [clipping of the address listing](/assets/docs/1975-10-Audio-directory-Win-Laboratories-address-clipping.png), as supplied.
+
+**Transcription** (from the clipping; the entries on either side are given for context):
+
+> **Vidaire Elec. Mfg. Co.**
+> 150 Buffalo Ave.
+> Freeport, N.Y. 11520
+>
+> **Win Laboratories**
+> 1301 Norman Firestone Rd.
+> Goleta, Cal. 93017
+>
+> **Wollensak, Div. 3M**
+> 3M Center Bldg.
+> St. Paul, Minn. 55119
+>
+> **Yamaha**
+> 660 Orangethorp Ave.
+> Buena Park, Cal. 90620
+>
+> AUDIO • OCTOBER, 1975
+
+**Details:**
+
+| Detail | As printed or reported | Checked? |
+| --- | --- | --- |
+| Address listing | Win Laboratories, 1301 Norman Firestone Rd., Goleta, Cal. 93017 | Yes (clipping) |
+| Issue | *Audio*, October 1975 | Yes (footer in clipping) |
+| Page of the address listing | Not visible | No |
+| Cartridge survey entry | WIN LABORATORIES SDT-10, semiconductor type, power source included, $199, p. 66 | No (reported only) |
+
+**Problems to resolve:**
+
+1. **Cartridge survey entry.** Check the SDT-10 line on p. 66: the exact wording, the price, and every specification column. Note that the [Boston Audio Society lead](#sdt-10-evaluation-boston-audio-society-1976-unverified) reports $225 including the power source in 1976. Once both are confirmed, check whether the package or the price changed.
+2. **Page number.** Record the page of the address listing.
+
+### Manufacturer directories, 1975 and 1976 (partly checked)
+
+**Status:** the 1975 address has been checked against a clipping from *Audio*'s October 1975 manufacturers' address list. See the [*Audio*, October 1975 entry](#audio-annual-directory-october-1975-address-checked), which is probably the 1975 directory this lead meant. The 1976 listing has not been checked yet.
 
 **Source as supplied:** a 1975 and a 1976 directory of audio manufacturers, said to be on World Radio History. No titles, page numbers or links were supplied.
 
@@ -70,7 +141,7 @@ Dated entries are in date order of the source. Undated documents follow them.
 
 | Detail | As reported | Checked? |
 | --- | --- | --- |
-| 1975 listing | WIN LABORATORIES, 1301 Norman Firestone Rd., Goleta, California 93017 | No |
+| 1975 listing | WIN LABORATORIES, 1301 Norman Firestone Rd., Goleta, California 93017 | Yes, as printed in *Audio*, October 1975: "Win Laboratories / 1301 Norman Firestone Rd. / Goleta, Cal. 93017" |
 | 1976 listing | Same company and address | No |
 
 **Problems to resolve before this can be used:**
@@ -269,6 +340,9 @@ Dated entries are in date order of the source. Undated documents follow them.
 - What does "Type II" refer to, and was there an earlier SDT-10?
 - When was Win Laboratories founded? The July 1974 item calls the Lab 10 its first audio unit. Did the company make anything else before it?
 - When did the company move from Norman Firestone Rd. to Hollister Ave.?
+- Did Win Laboratories acquire the Euphonics design and patents, and if so when, from whom, and which patents?
+- What did Win change in "re-engineering" the Euphonics design?
+- What did Euphonics make, and who designed its semiconductor pickup?
 - What was the Win tonearm, and was it sold in the United States as well as Australia?
 - Was the "new Win pickup cartridge" of 1976 an early SDT-10, and does that bear on what "Type II" means by 1979?
 - Did Win Laboratories have distributors in other countries?

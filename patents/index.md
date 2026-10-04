@@ -9,7 +9,11 @@ description: "Placeholder: Patents naming Dr Sao Win or Win Laboratories."
 
 *Placeholder: patents naming Dr Sao Win or Win Laboratories.*
 
-No source has been logged for this yet. Add one to the [Research Notes](/research-notes/) before writing it up.
+<em>High Fidelity</em>, February 1975, reportedly says Win acquired the Euphonics design and patents. If that is confirmed, the patents should be identified and listed here, with their inventors and assignment records.
+
+Leads still to check:
+
+- <a href="/research-notes/#sdt-10-and-the-euphonics-acquisition-high-fidelity-february-1975-unverified">SDT-10 and the Euphonics acquisition, <em>High Fidelity</em>, February 1975</a>
 
 ---
 
